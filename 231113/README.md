@@ -8,10 +8,17 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|100xp|2일째🔥|
+8|100xp|2일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
+|[Novice Low / 조건문 / and, or 혼합](https://www.codetree.ai/missions?missionId=4)|[[연습]장학금](https://www.codetree.ai/missions/4/problems/scholarship)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%9E%A5%ED%95%99%EA%B8%88/scholarship.cpp)|
+|[Novice Low / 조건문 / and, or 혼합](https://www.codetree.ai/missions?missionId=4)|[[연습]좀 더 어려운 수학 점수](https://www.codetree.ai/missions/4/problems/math-scores-are-more-difficult)|![보통][medium]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%A2%80%20%EB%8D%94%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%88%98%ED%95%99%20%EC%A0%90%EC%88%98/math-scores-are-more-difficult.cpp)|
+|[Novice Low / 조건문 / and, or 혼합](https://www.codetree.ai/missions?missionId=4)|[[테스트]두 사람](https://www.codetree.ai/missions/4/problems/two-person)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EB%91%90%20%EC%82%AC%EB%9E%8C/two-person.cpp)|
+|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[개념]남녀노소 구분짓기](https://www.codetree.ai/missions/4/problems/sex-and-age)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EB%82%A8%EB%85%80%EB%85%B8%EC%86%8C%20%EA%B5%AC%EB%B6%84%EC%A7%93%EA%B8%B0/sex-and-age.cpp)|
+|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[개념]윤년인가](https://www.codetree.ai/missions/4/problems/is-leap-year)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%9C%A4%EB%85%84%EC%9D%B8%EA%B0%80/is-leap-year.cpp)|
+|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]일 수 구하기](https://www.codetree.ai/missions/4/problems/number-of-days-in-month)|![보통][medium]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%9D%BC%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0/number-of-days-in-month.cpp)|
+|[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]최댓값 구하기](https://www.codetree.ai/missions/4/problems/maximum-value)|![어려움][hard]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0/maximum-value.cpp)|
 |[Novice Low / 조건문 / 중첩 조건문](https://www.codetree.ai/missions?missionId=4)|[[연습]코로나 메뉴얼](https://www.codetree.ai/missions/4/problems/covid-manual)|![어려움][hard]|![Passed][passed]|[링크](https://github.com/qwertyBBeers/codetree-TILs/blob/main/231113/%EC%BD%94%EB%A1%9C%EB%82%98%20%EB%A9%94%EB%89%B4%EC%96%BC/covid-manual.cpp)|
 
 
