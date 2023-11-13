@@ -8,10 +8,10 @@ int main() {
     int b;
     char a1;
     char b1;
-    
+
     cin >> a >> a1 >> b >> b1;
 
-    if((a >= 19 && a1 == 'M')||(b >= 19 && a1 == 'M'))
+    if((a >= 19 && a1 == 'M')||(b >= 19 && b1 == 'M'))
         cout << "1";
 
     return 0;
