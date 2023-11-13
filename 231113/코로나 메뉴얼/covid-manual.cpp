@@ -10,7 +10,7 @@ int main() {
 
     cin >> hurt[0] >> deg[0] >> hurt[1] >> deg[1] >> hurt[2] >> deg[2];
     for(int i = 0; i < 3; i++){
-        if(hurt[0] == 'Y'){
+        if(hurt[i] == 'Y'){
             if(deg[i] >= 37)
                 check++;
         }
