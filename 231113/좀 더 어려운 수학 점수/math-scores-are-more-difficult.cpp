@@ -16,7 +16,7 @@ int main() {
     else{
         if(a[1] > b[1])
             cout << "A";
-        else if(a[1] > b[1])
+        else if(a[1] < b[1])
             cout << "B";
     }
     return 0;
