@@ -6,7 +6,7 @@ int main() {
     cin >> n;
 
     while(n >= 1){
-        cout << n;
+        cout << n << " ";
         n--;
     }
     return 0;
