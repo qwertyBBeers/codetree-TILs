@@ -10,7 +10,6 @@ bool func(int n1, int n2){
         cin >> b[i];
 
     if(n2 > n1){
-        cout << " 1 ";
         return false;
     }
     else{
