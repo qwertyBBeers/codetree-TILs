@@ -15,8 +15,9 @@ bool func1(int M, int D){
         if(D <= 30)
             return true;
     }
-    else
-        return false;
+    
+    return false;
+    
 }
 int main() {
     // 여기에 코드를 작성해주세요.
