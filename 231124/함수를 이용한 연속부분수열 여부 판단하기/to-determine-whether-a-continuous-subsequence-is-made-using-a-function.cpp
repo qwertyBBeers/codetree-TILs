@@ -9,9 +9,10 @@ bool func(int n1, int n2){
     for(int i = 0; i < n2; i++)
         cin >> b[i];
 
-    if(n2 > n1)
+    if(n2 > n1){
         cout << " 1 ";
         return false;
+    }
     else{
         for(int i = 0; i < n1; i++){
             for(int j = 0; j < n2; j++){
