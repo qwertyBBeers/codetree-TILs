@@ -21,21 +21,25 @@ int main() {
     int result;
     cin >> a >> b >> c;
 
-    cout << a << " " << b << " " << c << " = ";
+    
     if(b == '+'){
         result = function1(a, c);
+        cout << a << " " << b << " " << c << " = ";
         cout << result;
     }
     else if(b == '-'){
         result = function2(a, c);
+        cout << a << " " << b << " " << c << " = ";
         cout << result;
     }
     else if(b == '*'){
         result = function3(a, c);
+        cout << a << " " << b << " " << c << " = ";
         cout << result;
     }
     else if(b == '/'){
         result = function4(a, c);
+        cout << a << " " << b << " " << c << " = ";
         cout << result;
     }
     else
