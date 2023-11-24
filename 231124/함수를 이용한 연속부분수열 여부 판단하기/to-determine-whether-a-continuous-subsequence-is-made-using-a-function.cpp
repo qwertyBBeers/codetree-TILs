@@ -10,6 +10,7 @@ bool func(int n1, int n2){
         cin >> b[i];
 
     if(n2 > n1)
+        cout << " 1 ";
         return false;
     else{
         for(int i = 0; i < n1; i++){
@@ -17,7 +18,6 @@ bool func(int n1, int n2){
                 if(a[i] == b[j]){
                     for(int k = 0; k < n2 - j; k++){
                         if(a[i+k] != b[j+k])
-                            cout << " 1 ";
                             return false;
                     }
                     return true;
