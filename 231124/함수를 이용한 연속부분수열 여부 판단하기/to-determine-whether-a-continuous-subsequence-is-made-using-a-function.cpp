@@ -26,6 +26,7 @@ bool func(int n1, int n2){
             }
              
         }
+        return false;
     }
 }
 int main() {
