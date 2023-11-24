@@ -17,8 +17,10 @@ bool func(int n1, int n2){
             for(int j = 0; j < n2; j++){
                 if(a[i] == b[j]){
                     for(int k = 0; k < n2 - j; k++){
-                        if(a[i+k] != b[j+k])
+                        if(a[i+k] != b[j+k]){
+                            cout << "1";
                             return false;
+                        }
                     }
                     return true;
                 }
@@ -26,7 +28,6 @@ bool func(int n1, int n2){
              
         }
     }
-
 }
 int main() {
     // 여기에 코드를 작성해주세요.
