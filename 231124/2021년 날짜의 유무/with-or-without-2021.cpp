@@ -11,7 +11,7 @@ bool func1(int M, int D){
         if(D <= 28)
             return true;
     }
-    else if(M == 2 || M == 4 || M == 6 || M == 9 || M == 11){
+    else if(M == 4 || M == 6 || M == 9 || M == 11){
         if(D <= 30)
             return true;
     }
